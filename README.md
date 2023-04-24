@@ -1,4 +1,21 @@
-### Hi there 👋
+## RafKhev
+##### Rafael Keven 
+
+Estudante de Ciências da computação na UFV - Campus Florestal
+1o período
+
+Projetos atuais:
+
+Gunvivor - GameMaker Studio 2
+
+Coisidle - HTML/CSS/Javascript
+
+LoreBuilder - Java (JavaFX)
+
+
+
+
+
 
 <!--
 **RafKhev/RafKhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
